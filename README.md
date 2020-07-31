@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ### Hi, i'm Mohamed 👋 👨‍💻 
 :octocat:
+</div>
+
 - 🔭 I’m currently working on Graduation Project 👨‍🎓
 - 🤔 I’m looking for help with Payment Gatways
 
