@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedelraghy)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedelraghy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
  
