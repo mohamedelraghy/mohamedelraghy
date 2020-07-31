@@ -1,6 +1,6 @@
 ### Hi, i'm Mohamed 👋 👨‍💻 
 
-- 🔭 I’m currently working on Graduation Project 🎓️
+- 🔭 I’m currently working on Graduation Project 👨‍🎓
 - 🤔 I’m looking for help with Payment Gatways
 <!--
 **mohamedelraghy/mohamedelraghy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
