@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 </div>
 
-- 🔭 I’m currently working on Graduation Project 👨‍🎓
+~~- 🔭 I’m currently working on Graduation Project 👨‍🎓~~
 - 🤔 I’m looking for help with Payment Gatways
 
 <div align="center">
