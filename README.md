@@ -31,14 +31,16 @@ Here are some ideas to get you started:
 
 [![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedelraghy&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<h1 align="left">Hi there 👋
+<h1 align="left">Hi there 👋 
+I'm Mohamed!
+<div align=right>
 
-  <div align=right>
-    ![counter](https://en4u5rphp26v6e8.m.pipedream.net)
-  </div>
-  <div align=right> 
-    ![Most Active GitHub User Rank](https://enksdv5x6tt42mz.m.pipedream.net)
-  </div>
+![counter](https://en4u5rphp26v6e8.m.pipedream.net)
+![Most Active GitHub User Rank](https://enksdv5x6tt42mz.m.pipedream.net)
+
+</div>
+
+  
 
 
 </h1>
