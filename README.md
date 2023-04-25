@@ -31,8 +31,17 @@ Here are some ideas to get you started:
 
 [![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedelraghy&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### Hi there 👋 
-### This is Mohamed EL-Raghy!
+<h1 align="left">Hi there 👋
+
+  <div align=right>
+    ![counter](https://en4u5rphp26v6e8.m.pipedream.net)
+  </div>
+  <div align=right> 
+    ![Most Active GitHub User Rank](https://enksdv5x6tt42mz.m.pipedream.net)
+  </div>
+
+
+</h1>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mohamedelraghy)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-raghy/)
