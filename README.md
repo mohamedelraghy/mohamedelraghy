@@ -60,6 +60,11 @@ Welcome to my Github page! I am Mohamed and I am currently finishing my Computer
 - Exercising 3 days a week
 - Improving my CV
 
+[Ask](https://github.com/mohamedelraghy/mohamedelraghy/discussions/new?category=q-a) me anything 💭
+
+For more info please refer to my [Resume](https://drive.google.com/file/d/18hnPM4xIm5pXwPvRUgvZrSVydlwkcYBq/view?usp=share_link)
+
+
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=mohamedelraghy&show_icons=true&hide_border=true" />
