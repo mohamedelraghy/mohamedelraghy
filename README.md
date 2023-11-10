@@ -31,13 +31,20 @@ Here are some ideas to get you started:
 
 [![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedelraghy&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<h1 align="left">Hi there  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<h1 align="left">Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 I'm Mohamed!
-<div align=right>
-
-![counter](https://en4u5rphp26v6e8.m.pipedream.net)
-![badge](https://aktive.kerolloz.dev/egypt/mohamedelraghy?label=&color=teal&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Egypt)
-</div>
+<!-- <a href="https://aktive.kerolloz.dev#gh-dark-mode-only">
+  <img align="right" src="https://t.ly/Fi7hB"/>
+</a>
+<a href="https://kounter.kerolloz.dev#gh-dark-mode-only">
+  <img align="right" src="https://t.ly/4v7yI" />
+</a> -->
+<a href="https://aktive.kerolloz.dev#gh-light-mode-only">
+  <img align="right" src="https://rb.gy/qao0sc"/>
+</a>
+<a href="https://kounter.kerolloz.dev#gh-light-mode-only">
+  <img align="right" src="https://rb.gy/w3eh7v" />
+</a>
 
 </h1>
 
