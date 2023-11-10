@@ -36,7 +36,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-raghy/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elraghy8@gmail.com)
 
-Welcome to my Github page! I am Mohamed and I am currently finishing my Computer Science BS degree at the university of Suez canal!
+Welcome to my Github page! I am Mohamed and I am currently finishing my Computer Science BS degree at the University of Suez Canal!
 
 <img align="right" alt="img" src="https://github.com/mohamedelraghy/mohamedelraghy/blob/master/cover_image.jpg" width="50%" height="auto" />
 
