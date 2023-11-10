@@ -1,4 +1,4 @@
-<h5 align="left"> Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Mohamed!
+<h1 align="left"> Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 <a href="https://aktive.kerolloz.dev#gh-light-mode-only">
   <img align="right" src="https://rb.gy/4tuwq7"/>
 </a>
@@ -13,9 +13,7 @@
   <img align="right" src="https://rb.gy/w3eh7v" />
 </a>
 
-</h5>
-
-
+</h1>
 
 <!-- <h1 align="left">Hi there 👋
 <a href="https://aktive.kerolloz.dev#gh-dark-mode-only">
@@ -24,7 +22,7 @@
 <a href="https://kounter.kerolloz.dev#gh-dark-mode-only">
   <img align="right" src="https://t.ly/4v7yI" />
 </a>
-  
+
 <a href="https://aktive.kerolloz.dev#gh-light-mode-only">
   <img align="right" src="https://t.ly/pZy1j"/>
 </a>
@@ -33,7 +31,6 @@
 </a>
 
 </h1> -->
-
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-raghy/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elraghy8@gmail.com)
