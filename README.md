@@ -1,4 +1,4 @@
-<h3 align="left"> Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Mohamed!
+<h5 align="left"> Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Mohamed!
 <a href="https://aktive.kerolloz.dev#gh-light-mode-only">
   <img align="right" src="https://rb.gy/4tuwq7"/>
 </a>
@@ -13,7 +13,7 @@
   <img align="right" src="https://rb.gy/w3eh7v" />
 </a>
 
-</h3>
+</h5>
 
 
 
