@@ -1,4 +1,4 @@
-<h1 align="left"> Hi there I'm Mohamed!
+<h1 align="left"> Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Mohamed!
 <a href="https://aktive.kerolloz.dev#gh-light-mode-only">
   <img align="right" src="https://rb.gy/4tuwq7"/>
 </a>
@@ -14,6 +14,8 @@
 </a>
 
 </h1>
+
+
 
 <!-- <h1 align="left">Hi there 👋
 <a href="https://aktive.kerolloz.dev#gh-dark-mode-only">
