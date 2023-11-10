@@ -6,12 +6,12 @@
   <img align="right" src="https://rb.gy/cuu795" />
 </a>
 
-<!-- <a href="https://aktive.kerolloz.dev#gh-dark-mode-only">
+<a href="https://aktive.kerolloz.dev#gh-dark-mode-only">
   <img align="right" src="https://rb.gy/qao0sc"/>
 </a>
 <a href="https://kounter.kerolloz.dev#gh-dark-mode-only">
   <img align="right" src="https://rb.gy/w3eh7v" />
-</a> -->
+</a>
 
 </h1>
 
