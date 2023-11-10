@@ -1,12 +1,36 @@
 <h1 align="left"> Hi there I'm Mohamed!
-<a href="https://aktive.kerolloz.dev#gh-light-mode-only">
+<a href="https://aktive.kerolloz.dev#gh-dark-mode-only">
   <img align="right" src="https://rb.gy/qao0sc"/>
 </a>
-<a href="https://kounter.kerolloz.dev#gh-light-mode-only">
+<a href="https://kounter.kerolloz.dev#gh-dark-mode-only">
   <img align="right" src="https://rb.gy/w3eh7v" />
 </a>
 
+<a href="https://aktive.kerolloz.dev#gh-light-mode-only">
+  <img align="right" src="https://rb.gy/4tuwq7"/>
+</a>
+<a href="https://kounter.kerolloz.dev#gh-light-mode-only">
+  <img align="right" src="https://rb.gy/cuu795" />
+</a>
+
 </h1>
+
+<!-- <h1 align="left">Hi there 👋
+<a href="https://aktive.kerolloz.dev#gh-dark-mode-only">
+  <img align="right" src="https://t.ly/Fi7hB"/>
+</a>
+<a href="https://kounter.kerolloz.dev#gh-dark-mode-only">
+  <img align="right" src="https://t.ly/4v7yI" />
+</a>
+  
+<a href="https://aktive.kerolloz.dev#gh-light-mode-only">
+  <img align="right" src="https://t.ly/pZy1j"/>
+</a>
+<a href="https://kounter.kerolloz.dev#gh-light-mode-only">
+  <img align="right" src="https://t.ly/QnGhe" />
+</a>
+
+</h1> -->
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-raghy/)
