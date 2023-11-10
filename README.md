@@ -31,14 +31,7 @@ Here are some ideas to get you started:
 
 [![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedelraghy&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<h1 align="left">Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-I'm Mohamed!
-<!-- <a href="https://aktive.kerolloz.dev#gh-dark-mode-only">
-  <img align="right" src="https://t.ly/Fi7hB"/>
-</a>
-<a href="https://kounter.kerolloz.dev#gh-dark-mode-only">
-  <img align="right" src="https://t.ly/4v7yI" />
-</a> -->
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Mohamed!
 <a href="https://aktive.kerolloz.dev#gh-light-mode-only">
   <img align="right" src="https://rb.gy/qao0sc"/>
 </a>
