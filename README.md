@@ -1,37 +1,4 @@
-<!--
-**mohamedelraghy/mohamedelraghy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- <div align="center">
-
-### Hi, i'm Mohamed 👋 👨‍💻
-:octocat:
-
-<!-- ![counter](https://en4u5rphp26v6e8.m.pipedream.net)
-
-![Most Active GitHub User Rank](https://enksdv5x6tt42mz.m.pipedream.net) -->
-
-<!-- </div>
-
-~~- 🔭 I’m currently working on Graduation Project 👨‍🎓~~
-- 🤔 I’m looking for help with Payment Gatways
-
-<div align="center">
-
-[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedelraghy&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<h1 align="left">Hi there I'm Mohamed!
+<h1 align="left"> Hi there I'm Mohamed!
 <a href="https://aktive.kerolloz.dev#gh-light-mode-only">
   <img align="right" src="https://rb.gy/qao0sc"/>
 </a>
@@ -40,6 +7,7 @@ Here are some ideas to get you started:
 </a>
 
 </h1>
+
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-raghy/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elraghy8@gmail.com)
