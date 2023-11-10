@@ -1,4 +1,4 @@
-<h1 align="left"> Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+<h1 align="left"> Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> 
 <a href="https://aktive.kerolloz.dev#gh-light-mode-only">
   <img align="right" src="https://rb.gy/4tuwq7"/>
 </a>
