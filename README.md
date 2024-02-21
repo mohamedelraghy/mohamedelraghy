@@ -52,7 +52,7 @@ Welcome to my Github page! I am Mohamed and I am currently finishing my Computer
 
 [Ask](https://github.com/mohamedelraghy/mohamedelraghy/discussions/new?category=q-a) me anything 💭
 
-For more info please refer to my [Resume](https://drive.google.com/file/d/1LOuGB_60xyYP3PlYFyiHxA_u7m7SEXe7/view?usp=sharing)
+For more info please refer to my [Resume](https://drive.google.com/file/d/1ynC_2RWZh4m-08iLduo7Wy607U68FOTT/view?usp=sharing)
 
 #### :computer: Programming languages and tools:
 
